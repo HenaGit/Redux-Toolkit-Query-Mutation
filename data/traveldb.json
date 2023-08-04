@@ -17,6 +17,12 @@
       "city": "Addis Ababa",
       "country": "Ethiopia",
       "daysNeeded": 4
+    },
+    {
+      "id": 69.53515103365761,
+      "city": "Gondar",
+      "country": "Ethiopia",
+      "daysNeeded": 9
     }
   ]
 }
