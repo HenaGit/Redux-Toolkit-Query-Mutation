@@ -23,6 +23,12 @@
       "city": "Azezo",
       "country": "Ethiopia",
       "daysNeeded": 9
+    },
+    {
+      "id": 52.66745754165565,
+      "city": "Gondar",
+      "country": "Ethiopia",
+      "daysNeeded": 3
     }
   ]
 }
